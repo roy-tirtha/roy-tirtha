@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+<p align="center">
 <img data-importer="snake" src="https://raw.githubusercontent.com/SomeOne-0o0/SomeOne-0o0/snake-output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
