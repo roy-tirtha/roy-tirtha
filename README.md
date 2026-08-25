@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ###
 
+
 <br clear="both">
 
 <p align="center">
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
 ###
 <h2> I'm Tirtha Roy! <img src= "https://github.com/SomeOne-0o0/hosted_images/blob/main/hi_infinite_loop.gif?raw=true" width="50">></h2>
 
@@ -67,13 +69,19 @@ Here are some ideas to get you started:
 ](https://www.instagram.com/angkan.roy/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/forREADME/lightning.gif?raw=true" width="15" />&nbsp;&nbsp;&nbsp;Fun fact: I'm **obsessed with organizing knowledge**—my **Notion workspace** is basically my second brain.<br>
 
+
 <!--
 -->
 </table> <br clear="right" /> <hr> 
 
 
+
 ###
 <img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/riseup.gif?raw=true" width="60"> <em><b>Tech nerd.  &nbsp; Always up for connecting with new people.</b>  Just say hi — I'm friendlier than my terminal </b> :)</em>
 
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:roy-tirtha?theme=minecraft&padding=5&offset=5&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 
