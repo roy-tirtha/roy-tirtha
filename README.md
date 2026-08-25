@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:roy-tirtha?theme=minecraft&padding=5&offset=5&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
+  <br>
+  <img src="https://img.shields.io/badge/visitors-2ECC71?style=flat-square&logoColor=white" />
 </div>
-
-
