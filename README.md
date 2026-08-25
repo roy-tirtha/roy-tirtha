@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
 </div>
 
-###
-
 
 <br clear="both">
 
@@ -74,11 +72,8 @@ Here are some ideas to get you started:
 -->
 </table> <br clear="right" /> <hr> 
 
-
-
 ###
 <img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/riseup.gif?raw=true" width="60"> <em><b>Tech nerd.  &nbsp; Always up for connecting with new people.</b>  Just say hi — I'm friendlier than my terminal </b> :)</em>
-
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:roy-tirtha?theme=minecraft&padding=5&offset=5&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
